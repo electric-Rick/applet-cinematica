@@ -1,2 +1,5 @@
-# applet-cinematica
-Este Applet faz parte de um projeto do PET-UFRRJ que visa facilitar o aprendizado dos conteúdos de cinemática.
+# Applet Cinemática(Protótipo)
+Este Applet faz parte de um projeto do PET-UFRRJ que visa facilitar o aprendizado dos conteúdos de cinemática que é uma área dentro do campo da Física que faz o estudo do movimento. A princípio, este Applet servirá como um pequeno desafio para os ingressantes, no intuito de ajudá-los a ter uma compreensão mais sólida do que é o conceito de Cinemática. 
+
+# A quem destina-se este Applet?
+Para todos aqueles que tiverem interesse em aprender cinemática de uma maneira diferente, através da interação profunda entre o usuário e o conteúdo vigente dá-se o objetivo de testar e rastrear as habilidades de muitos calouros dos cursos de ciências exatas da  UFRRJ. Portanto, a princípio, este applet servirá também como material de apoio e consulta para os ingressantes, com a finalidade de ter o conteúdo simplificado e com uma linguagem de fácil entendimento para aqules que possuem pouco contato com a Física drante o ensino médio e fundamental, portanto alguns conteúdos adicionais serão aplicado [CONTINUA NO EDITOR DE TEXTOS]
